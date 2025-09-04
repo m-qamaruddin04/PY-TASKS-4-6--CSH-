@@ -1,4 +1,10 @@
-PYTHON TASKS 4-6 , 2ND WEEK , "CORTEXIS SOLUTION HUB"
+# Python Tasks 4–6 (2nd Week)  
+**Cortexis Solution Hub**
+
+This repository contains Python tasks **4 to 6** for the second week.
+
+## Project Structure
+```plaintext
 PY-TASKS-4-6--CSH/
 │
 ├── Task-4/
@@ -14,3 +20,4 @@ PY-TASKS-4-6--CSH/
 │   └── task6.py     # Python code
 │
 └── README.md        # Main project overview
+
